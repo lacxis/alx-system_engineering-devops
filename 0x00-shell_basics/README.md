@@ -1,0 +1,1 @@
+Projects done to show understanding of how shell and bash works
